@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="vamsi" language="en" table="x_snc_vamsiscope_vamsi">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>vamsi</label>
+            <language>en</language>
+            <name>x_snc_vamsiscope_vamsi</name>
+            <plural>vamsis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vamsikrishna.yaragal@snc</sys_created_by>
+            <sys_created_on>2021-11-08 14:12:51</sys_created_on>
+            <sys_id>bd51c904db377410c65744fa139619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>vamsi</sys_name>
+            <sys_package display_value="vamsiscope" source="x_snc_vamsiscope">f6cb6808dbf37410c65744fa1396192e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vamsiscope">f6cb6808dbf37410c65744fa1396192e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_vamsiscope_vamsi__en</sys_update_name>
+            <sys_updated_by>vamsikrishna.yaragal@snc</sys_updated_by>
+            <sys_updated_on>2021-11-08 14:12:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
