@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>vamsikrishna.yaragal@snc</sys_created_by>
+        <sys_created_on>2021-11-08 14:12:50</sys_created_on>
+        <sys_id>b551c904db377410c65744fa1396199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_vamsiscope_vamsi.x_snc_vamsiscope.vamsi_user</sys_name>
+        <sys_package display_value="vamsiscope" source="x_snc_vamsiscope">f6cb6808dbf37410c65744fa1396192e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vamsiscope">f6cb6808dbf37410c65744fa1396192e</sys_scope>
+        <sys_security_acl display_value="x_snc_vamsiscope_vamsi">e551c904db377410c65744fa13961999</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b551c904db377410c65744fa1396199d</sys_update_name>
+        <sys_updated_by>vamsikrishna.yaragal@snc</sys_updated_by>
+        <sys_updated_on>2021-11-08 14:12:50</sys_updated_on>
+        <sys_user_role display_value="x_snc_vamsiscope.vamsi_user" name="x_snc_vamsiscope.vamsi_user">2951c1c0db377410c65744fa139619b1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
