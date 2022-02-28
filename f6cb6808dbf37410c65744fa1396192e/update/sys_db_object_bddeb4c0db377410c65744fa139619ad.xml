@@ -8,7 +8,7 @@
         <configuration_access>false</configuration_access>
         <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
-        <delete_access>true</delete_access>
+        <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
         <label>vamsi</label>
@@ -25,14 +25,14 @@
         <sys_created_by>vamsikrishna.yaragal@snc</sys_created_by>
         <sys_created_on>2021-11-08 14:12:50</sys_created_on>
         <sys_id>bddeb4c0db377410c65744fa139619ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>vamsi</sys_name>
         <sys_package display_value="vamsiscope" source="x_snc_vamsiscope">f6cb6808dbf37410c65744fa1396192e</sys_package>
         <sys_policy/>
         <sys_scope display_value="vamsiscope">f6cb6808dbf37410c65744fa1396192e</sys_scope>
         <sys_update_name>sys_db_object_bddeb4c0db377410c65744fa139619ad</sys_update_name>
         <sys_updated_by>vamsikrishna.yaragal@snc</sys_updated_by>
-        <sys_updated_on>2021-11-08 14:12:50</sys_updated_on>
+        <sys_updated_on>2022-02-23 04:21:40</sys_updated_on>
         <update_access>true</update_access>
         <user_role display_value="x_snc_vamsiscope.vamsi_user" name="x_snc_vamsiscope.vamsi_user">2951c1c0db377410c65744fa139619b1</user_role>
         <ws_access>true</ws_access>
